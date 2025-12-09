@@ -30,9 +30,10 @@ Spring Boot, REST APIs, MySQL, MongoDB | Docker, Kubernetes | Kafka, Redis, Rabb
 
 ## 📌 Featured Projects
 
-🔹 **EChowk – Smart Digital City Platform**  
-> Scalable backend system for managing digital civic services  
+🔹 **EChowk – Peer-to-Peer Skill Exchange Platform**  
+> Backend system that connects users to exchange skills via secure REST APIs  
 🔗 https://github.com/rahul54726/EChowk  
+
 
 🔹 **SmartCityHub – Centralized City Operations Backend**  
 > Distributed microservice-style backend architecture  
