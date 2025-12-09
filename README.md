@@ -1,47 +1,54 @@
 # Rahul Rajpoot 👋
 
-Java Backend Developer | Spring Boot | REST APIs | Cloud & DevOps (Learning)
+Java Backend Developer | Building Scalable & Distributed Systems  
+Spring Boot, REST APIs, MySQL, MongoDB | Docker, Kubernetes | Kafka, Redis, RabbitMQ
 
 ---
 
 ## 🚀 What I Do
-- Build **production-style backend systems** using Java & Spring Boot
-- Design and implement **RESTful APIs**
-- Work with **MongoDB & SQL databases**
-- Learning **AWS, Docker, Kubernetes** for cloud-native deployment
-- Strong foundation in **Data Structures & Algorithms**
+- Design and build **scalable backend services** using **Java & Spring Boot**
+- Develop **high-performance REST APIs**
+- Work with both **SQL & NoSQL databases**
+- Implement **asynchronous and distributed processing** using **Kafka & RabbitMQ**
+- Use **Redis for caching & performance optimization**
+- Containerize and deploy using **Docker & Kubernetes**
+- Strong foundation in **Data Structures & System Design**
 
 ---
 
 ## 🛠 Tech Stack
 - **Languages:** Java, SQL  
 - **Backend:** Spring Boot, REST APIs, JPA  
-- **Databases:** MongoDB, MySQL  
-- **DevOps:** Docker (Learning), AWS (Learning)  
+- **Databases:** MySQL, MongoDB  
+- **Messaging:** Apache Kafka, RabbitMQ  
+- **Caching:** Redis  
+- **DevOps:** Docker, Kubernetes  
+- **Build Tools:** Maven  
 - **Tools:** Git, GitHub, Postman, IntelliJ  
 
 ---
 
 ## 📌 Featured Projects
 
-🔹 **ECrow / EChowk**  
-> Digital city services platform using Spring Boot & MongoDB  
-🔗 https://github.com/rahul54726/EChowk
+🔹 **EChowk – Smart Digital City Platform**  
+> Scalable backend system for managing digital civic services  
+🔗 https://github.com/rahul54726/EChowk  
 
-🔹 **SmartCityHub**  
-> Centralized smart city management backend system  
-🔗 https://github.com/rahul54726/SmartCityHub
+🔹 **SmartCityHub – Centralized City Operations Backend**  
+> Distributed microservice-style backend architecture  
+🔗 https://github.com/rahul54726/SmartCityHub  
 
-🔹 **NP Core**  
-> Core backend service utilities & APIs using Java  
-🔗 https://github.com/rahul54726/NPCore
+🔹 **NPCore – Core Backend Utilities & Services**  
+> Reusable backend service components and APIs  
+🔗 https://github.com/rahul54726/NPCore  
 
 ---
 
-## 📚 Currently Learning
-- AWS (EC2, S3, IAM)
-- Docker & Kubernetes
-- System Design for Backend Developers
+## 📚 Currently Focusing On
+- Distributed Systems Design
+- Kafka & Event-Driven Architecture
+- Kubernetes Production Deployment
+- High-Level System Design Interviews
 
 ---
 
