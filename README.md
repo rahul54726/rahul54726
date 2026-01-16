@@ -55,7 +55,7 @@ Spring Boot, REST APIs, MySQL, MongoDB | Docker, Kubernetes | Kafka, Redis, Rabb
 
 ## 📫 Connect With Me
 - GitHub: https://github.com/rahul54726  
-- Email: add-your-email-here  
+- Email: vermarahul11034@gmail.com  
 
 ---
 
