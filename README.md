@@ -1,4 +1,4 @@
-# Rahul Rajpoot 👋
+# Rahul Verma 👋
 
 Java Backend Developer | Building Scalable & Distributed Systems  
 Spring Boot, REST APIs, MySQL, MongoDB | Docker, Kubernetes | Kafka, Redis, RabbitMQ
