@@ -66,5 +66,5 @@ I am a backend engineer with a deep focus on **Spring Boot, RESTful microservice
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=rahul54726&show_icons=true&theme=radical" alt="GitHub Stats" width="400"/>
-  <img src="https://leetcard.jacoblin.cool/rahul54726?theme=dark&font=Syne" alt="LeetCode Stats" width="400"/>
+  <img src="https://leetcard.jacoblin.cool/rahul_23246?theme=dark&font=Syne" alt="LeetCode Stats" width="400"/>
 </div>
