@@ -28,7 +28,7 @@ I am a backend engineer with a deep focus on **Spring Boot, RESTful microservice
 
 ## 📌 Featured Projects
 
-🔹 **[NPCine – High-Concurrency Ticket Booking](https://github.com/rahul54726/NCPine.git)**  
+🔹 **[NPCine – High-Concurrency Ticket Booking](https://github.com/rahul54726/NPCine.git)**  
 > Scalable booking system resolving race conditions during seat allocation using **Redis distributed locks**. Implemented asynchronous processing using **Kafka** to manage transaction states and reduce API latency. Orchestrated deployment via **Kubernetes** and **Jenkins CI/CD**.
 
 🔹 **[NPCore – Online Coding Platform Backend](https://github.com/rahul54726/NPCore)**  
